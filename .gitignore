@@ -1,0 +1,17 @@
+# Exclude build directories
+/build/
+
+# Exclude executable files
+*.exe
+*.out
+*.bin
+
+# Exclude object files
+*.o
+*.obj
+
+# Exclude data files
+*.data
+*.dat
+*.csv
+*.json
